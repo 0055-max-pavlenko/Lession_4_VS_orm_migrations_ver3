@@ -37,7 +37,6 @@
     <Compile Include="school\migrations\0001_initial.py" />
     <Compile Include="school\migrations\__init__.py" />
     <Compile Include="school\models.py" />
-    <Compile Include="school\urls.py" />
     <Compile Include="school\views.py" />
     <Compile Include="school\__init__.py" />
     <Compile Include="website\__init__.py" />
@@ -67,6 +66,7 @@
     <Content Include="static\js\jquery.min.js" />
     <Content Include="templates\school\base.html" />
     <Content Include="templates\school\students_list.html" />
+    <Content Include="templates\school\teachers_list.html" />
   </ItemGroup>
   <ItemGroup>
     <None Include="readme.html">
